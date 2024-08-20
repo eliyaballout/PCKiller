@@ -73,7 +73,7 @@ The `sc` command-line tool is used to communicate with the SCM to install, start
 
 2. **Enable Test Mode on Windows:** <br>
     By default, Windows only allows loading of signed drivers to ensure the integrity and authenticity of the drivers being loaded. Enabling Test Mode bypasses this restriction, allowing you to test and debug your driver without needing a digital signature. <br>
-    So before installing and running the MiniAV driver, you need to enable Test Mode on Windows. This allows you to load unsigned drivers, which is necessary for development and testing purposes.
+    So before installing and running the PCKiller driver, you need to enable Test Mode on Windows. This allows you to load unsigned drivers, which is necessary for development and testing purposes.
     1. **Open Command Prompt(cmd) as Administrator**
    
     2. **Enable Test Mode:**
@@ -168,15 +168,14 @@ This tool is intended for educational use only to demonstrate techniques commonl
 
 
 ## Technologies Used
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
 <br><br><br>
 
 
 
 
-## Demonstration of the antivirus
+## Demonstration of the PCKiller
 
-
+https://github.com/user-attachments/assets/47bac2d0-997c-45af-ab16-54db5da1e7aa
 
 <br>
